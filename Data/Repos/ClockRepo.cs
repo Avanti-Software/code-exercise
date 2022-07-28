@@ -1,8 +1,9 @@
 ﻿using CodeExercise.Domain.Models;
+using CodeExercise.Domain.Repos;
 
 namespace CodeExercise.Data.Repos
 {
-	public class ClockRepo
+	public class ClockRepo : IClockRepo
 	{
 		private Tenant tenant;
 		public ClockRepo(Tenant tenant)
