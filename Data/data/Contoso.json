@@ -1,0 +1,79 @@
+[
+  {
+    "SerialNo": 2000,
+    "TimeZone": "EST",
+    "Description": "Clock 2000",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2001,
+    "TimeZone": "EST",
+    "Description": "Clock 2001",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2003,
+    "TimeZone": "EST",
+    "Description": "Clock 2003",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2006,
+    "TimeZone": "EST",
+    "Description": "Clock 2006",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2010,
+    "TimeZone": "EST",
+    "Description": "Clock 2010",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2015,
+    "TimeZone": "EST",
+    "Description": "Clock 2015",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2021,
+    "TimeZone": "EST",
+    "Description": "Clock 2021",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2028,
+    "TimeZone": "EST",
+    "Description": "Clock 2028",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2036,
+    "TimeZone": "EST",
+    "Description": "Clock 2036",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2045,
+    "TimeZone": "EST",
+    "Description": "Clock 2045",
+    "Client": "Contoso",
+    "Active": true
+  },
+  {
+    "SerialNo": 2055,
+    "TimeZone": "EST",
+    "Description": "Clock 2055",
+    "Client": "Contoso",
+    "Active": true
+  }
+]

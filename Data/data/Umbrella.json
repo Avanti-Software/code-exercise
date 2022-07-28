@@ -1,0 +1,121 @@
+[
+  {
+    "SerialNo": 4000,
+    "TimeZone": "EST",
+    "Description": "Clock 4000",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4001,
+    "TimeZone": "EST",
+    "Description": "Clock 4001",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4003,
+    "TimeZone": "EST",
+    "Description": "Clock 4003",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4006,
+    "TimeZone": "EST",
+    "Description": "Clock 4006",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4010,
+    "TimeZone": "EST",
+    "Description": "Clock 4010",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4015,
+    "TimeZone": "EST",
+    "Description": "Clock 4015",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4021,
+    "TimeZone": "EST",
+    "Description": "Clock 4021",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4028,
+    "TimeZone": "EST",
+    "Description": "Clock 4028",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4036,
+    "TimeZone": "EST",
+    "Description": "Clock 4036",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4045,
+    "TimeZone": "EST",
+    "Description": "Clock 4045",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4055,
+    "TimeZone": "EST",
+    "Description": "Clock 4055",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4066,
+    "TimeZone": "EST",
+    "Description": "Clock 4066",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4078,
+    "TimeZone": "EST",
+    "Description": "Clock 4078",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4091,
+    "TimeZone": "EST",
+    "Description": "Clock 4091",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4105,
+    "TimeZone": "EST",
+    "Description": "Clock 4105",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4120,
+    "TimeZone": "EST",
+    "Description": "Clock 4120",
+    "Client": "Umbrella",
+    "Active": true
+  },
+  {
+    "SerialNo": 4136,
+    "TimeZone": "EST",
+    "Description": "Clock 4136",
+    "Client": "Umbrella",
+    "Active": true
+  }
+]

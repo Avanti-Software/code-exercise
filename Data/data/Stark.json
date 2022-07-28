@@ -1,0 +1,44 @@
+[
+  {
+    "SerialNo": 3000,
+    "TimeZone": "EST",
+    "Description": "Clock 3000",
+    "Client": "Stark",
+    "Active": true
+  },
+  {
+    "SerialNo": 3001,
+    "TimeZone": "EST",
+    "Description": "Clock 3001",
+    "Client": "Stark",
+    "Active": true
+  },
+  {
+    "SerialNo": 3003,
+    "TimeZone": "EST",
+    "Description": "Clock 3003",
+    "Client": "Stark",
+    "Active": true
+  },
+  {
+    "SerialNo": 3006,
+    "TimeZone": "EST",
+    "Description": "Clock 3006",
+    "Client": "Stark",
+    "Active": true
+  },
+  {
+    "SerialNo": 3010,
+    "TimeZone": "EST",
+    "Description": "Clock 3010",
+    "Client": "Stark",
+    "Active": true
+  },
+  {
+    "SerialNo": 3015,
+    "TimeZone": "EST",
+    "Description": "Clock 3015",
+    "Client": "Stark",
+    "Active": true
+  }
+]

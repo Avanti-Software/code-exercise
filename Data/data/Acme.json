@@ -1,0 +1,65 @@
+[
+  {
+    "SerialNo": 1000,
+    "TimeZone": "EST",
+    "Description": "Clock 1000",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1001,
+    "TimeZone": "EST",
+    "Description": "Clock 1001",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1003,
+    "TimeZone": "EST",
+    "Description": "Clock 1003",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1006,
+    "TimeZone": "EST",
+    "Description": "Clock 1006",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1010,
+    "TimeZone": "EST",
+    "Description": "Clock 1010",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1015,
+    "TimeZone": "EST",
+    "Description": "Clock 1015",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1021,
+    "TimeZone": "EST",
+    "Description": "Clock 1021",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1028,
+    "TimeZone": "EST",
+    "Description": "Clock 1028",
+    "Client": "Acme",
+    "Active": true
+  },
+  {
+    "SerialNo": 1036,
+    "TimeZone": "EST",
+    "Description": "Clock 1036",
+    "Client": "Acme",
+    "Active": true
+  }
+]
